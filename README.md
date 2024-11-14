@@ -1,3 +1,5 @@
+
+# this is the command to run the test scripts npm test -- --watchAll=false
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
